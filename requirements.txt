@@ -1,0 +1,9 @@
+arff
+scipy
+scikit-learn
+pandas
+jupyter
+notebook
+matplotlib
+seaborn
+numpy
